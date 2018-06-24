@@ -465,7 +465,7 @@ absorbe a title)**
   
 
 > git reflog  
-> 049073c (HEAD -master, styled) HEAD@{0}: reset: moving to HEAD~1  
+> 049073c (HEAD -master, styled) HEAD@{0}: reset: moving to \HEAD~1  
 > d0b4146 HEAD@{1}: merge title: Merge made by the 'recursive' strategy.  
 > 049073c (HEAD -master, styled) HEAD@{2}: checkout: moving from title 
 to master  
@@ -482,7 +482,7 @@ htmlify
 > bce4477 HEAD@{10}: checkout: moving from master to htmlify  
 > bce4477 HEAD@{11}: checkout: moving from styled to master  
 > 5f50bf0 HEAD@{12}: reset: moving to 5f50bf0  
-> bce4477 HEAD@{13}: reset: moving to HEAD~1  
+> bce4477 HEAD@{13}: reset: moving to \HEAD~1  
 > 5f50bf0 HEAD@{14}: commit: 2º commit modificamos git-nuestro rama 
 styled  
 > bce4477 HEAD@{15}: checkout: moving from master to styled  
